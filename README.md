@@ -22,7 +22,7 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 <br/>  
 
 
-## My Skill Set  
+## Fotoğraf  
 <table><tr><td valign="top" width="33%">
 
 ![Minecraft Launcher](https://i.imgur.com/WJtwWlO_d.webp?maxwidth=760&fidelity=grand)  
@@ -41,7 +41,7 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 <br/>  
 
 
-## Connect with me  
+## İletişim  
 <div align="center">
 <a href="https://twitter.com/trpolaris" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -58,13 +58,13 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 <br/>  
 
 
-## Github Stats  
+
   
 
 <br/>  
 
 
-## Recent Blog Posts  
+
   
 
 <br/>  
