@@ -1,5 +1,6 @@
 ### <div align="center">Açık kaynak kodlu kendinize göre özelleştirebileceğiniz minecraft launcher</div>  
-  
+ 
+ ![trpolaris black](https://i.imgur.com/sRW9qUa_d.webp?maxwidth=760&fidelity=grand)  
 
 - **<ins>(Kısmi hatalar olabilir)</ins>**  
   
