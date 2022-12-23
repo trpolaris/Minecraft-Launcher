@@ -81,4 +81,4 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Web Sitem <a href="https://trpolaris.hiz.tc/" target="_blank">trpolaris</a></div>
