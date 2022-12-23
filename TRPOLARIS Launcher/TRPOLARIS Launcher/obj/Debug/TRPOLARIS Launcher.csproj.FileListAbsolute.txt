@@ -1,0 +1,54 @@
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\TRPOLARIS Launcher.exe.config
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\TRPOLARIS Launcher.exe
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\TRPOLARIS Launcher.pdb
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS_Launcher.Properties.Resources.resources
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.exe
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.pdb
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS_Launcher.SplashScreen.resources
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS_Launcher.MainPage.resources
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\CmlLib.dll
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\SevenZip.dll
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\SevenZip.xml
+C:\Users\Administrator\Documents\Proje\Applications\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.CopyComplete
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\CmlLib.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\SevenZip.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\SevenZip.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS_Launcher.MainPage.resources
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS_Launcher.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS_Launcher.SplashScreen.resources
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.exe
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.pdb
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\TRPOLARIS Launcher.exe.config
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\TRPOLARIS Launcher.exe
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\bin\Debug\TRPOLARIS Launcher.pdb
+C:\Users\Administrator\Documents\Visual studio 2022 proje\TRPOLARIS Launcher\TRPOLARIS Launcher\obj\Debug\TRPOLARIS Launcher.csproj.CopyComplete
