@@ -26,7 +26,7 @@ Herhangi bir problem yaşarsanız sosyal medya hesablarım üzerinden benimle il
 ## Fotoğraf  
 <table><tr><td valign="top" width="33%">
 
-![Minecraft Launcher](https://i.imgur.com/WJtwWlO_d.webp?maxwidth=760&fidelity=grand)  
+![Minecraft Launcher](https://i.ismgur.com/WJtwWlO_d.webp?maxwidth=760&fidelity=grand)  
 
 </td></tr></table>  
 
